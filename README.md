@@ -48,11 +48,11 @@ Es importante que accedas y te leas detenidamente la información de [Fundamento
 
 Configura un nombre de usuario:
 ```bash
-git congit --global user.name "JoseJPR"
+git config --global user.name "JoseJPR"
 ```
 Configura un email:
 ```bash
-git congit --global user.email "me@josejpr.com"
+git config --global user.email "me@josejpr.com"
 ```
 
 ### Ver nuestra configuración de git
