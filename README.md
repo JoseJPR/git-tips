@@ -20,7 +20,7 @@
   <br />
 </p>
 
-## 🔖 Description
+## 🔖 Descripción
 Git fue diseñado por [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds) y creado pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
 
 Git nos permite trabajar en proyectos de software independientemente del lenguaje que utilicemos y del número de personas que trabajen en él. Podrás gestionar todos los estados de progresión de cada proyecto creando ramas para desarrollar nuevas características concretas para la resolución de bugs, para desplegar en entornos concretos entre otras tareas.
